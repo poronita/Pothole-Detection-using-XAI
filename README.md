@@ -110,3 +110,23 @@ python predict_and_explain.py
 
 # Create downloadable report
 python generate_report.py
+
+## 🙏 Acknowledgment
+
+This project was made possible through the contributions of the open-source and ML research community. Special thanks to:
+
+- **Atulya Kumar** for the [Pothole Detection Dataset](https://www.kaggle.com/datasets/atulyakumar98/pothole-detection-dataset) on Kaggle.
+- **PyTorch** for providing a powerful deep learning framework.
+- **Captum** for enabling model explainability via GradCAM, IG, and SmoothGrad.
+- **FPDF** for streamlined PDF report generation.
+
+I appreciate the global community’s ongoing efforts toward transparency, education, and open innovation.
+
+## 📬 Contact
+
+Created by **[@poronita](https://github.com/poronita)** — feel free to connect!
+
+- 🔗 LinkedIn: [linkedin.com/in/prathvibhatti08](https://www.linkedin.com/in/prathvibhatti08/)
+
+> Always open to collaborations, ideas, and opportunities!
+
